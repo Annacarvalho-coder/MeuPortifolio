@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    padding: 50px;
+}
+
+.itens{
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.titulo{
+    list-style-type: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
